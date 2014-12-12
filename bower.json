@@ -1,0 +1,17 @@
+{
+  "name": "aws-s3",
+  "main": "aws-s3.js",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "keywords": [
+    "angular",
+    "aws",
+    "s3"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/FrontendWTF/aws-s3",
+  "dependencies": {
+    "aws": "FrontendWTF/aws#~0.2.0"
+  }
+}
