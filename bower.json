@@ -12,6 +12,6 @@
   "license": "WTFPL",
   "homepage": "https://github.com/FrontendWTF/aws-s3",
   "dependencies": {
-    "aws": "FrontendWTF/aws#~0.2.0"
+    "aws": "FrontendWTF/aws#~0.3.0"
   }
 }
